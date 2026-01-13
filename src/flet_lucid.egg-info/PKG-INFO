@@ -1,0 +1,50 @@
+Metadata-Version: 2.4
+Name: flet-lucid
+Version: 0.1.0
+Summary: use up to 1600 kinds of lucid icons with the flet framework
+Author-email: Arief Minardi <ariefminardi005@gmail.com>
+Project-URL: Repository, https://github.com/arief05652/flet-lucid
+Project-URL: Issues, https://github.com/arief05652/flet-lucid/issues
+Requires-Python: >=3.12
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: flet>=0.80.0
+Dynamic: license-file
+
+# FLET LUCID
+
+![PyPI - Downloads](https://img.shields.io/pypi/dw/flet-lucid)
+![PyPI - Version](https://img.shields.io/pypi/v/flet-lucid)
+
+
+## Features
+
+- Mudah dipakai
+- mendukung sampai 1600++ macam icon
+- device yang didukung:
+
+> [!NOTE]
+> **🟢 Green**: berarti bisa di build/dapat berjalan \
+> **🟡 Yellow**: belum di test \
+> **🔴 Red**: tidak di dukung
+
+| Device  | Status |
+| --- | --- |
+| Android | 🟢 |
+| Linux | 🟢 |
+| Web | 🔴 |
+| Ios | 🟡 |
+| Windows | 🟡 |
+
+## Requirements
+
+### Use UV
+```bash
+uv add flet-lucid
+```
+
+## How to Use
+
+```python
+
+```

@@ -1,0 +1,31 @@
+[project]
+name = "flet-lucid"
+version = "0.1.0"
+description = "use up to 1600 kinds of lucid icons with the flet framework"
+readme = "README.md"
+requires-python = ">=3.12"
+authors = [
+    { name = "Arief Minardi", email = "ariefminardi005@gmail.com" }
+]
+dependencies = [
+    "flet>=0.80.0",
+]
+
+[dependency-groups]
+dev = [
+    "flet[all]>=0.80.0",
+]
+
+[project.urls]
+Repository = "https://github.com/arief05652/flet-lucid"
+Issues = "https://github.com/arief05652/flet-lucid/issues"
+
+[tool.setuptools.package-data]
+"flutter.flet_lucid" = ["**/*"]
+
+[tool.setuptools]
+license-files = ["LICENSE"]
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
