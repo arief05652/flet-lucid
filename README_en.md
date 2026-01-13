@@ -12,8 +12,8 @@
 * **Supported Devices:**
 
 > [!NOTE]
-> **🟢 Green**: Build successful / Running
-> **🟡 Yellow**: Not yet tested
+> **🟢 Green**: Build successful / Running \
+> **🟡 Yellow**: Not yet tested \
 > **🔴 Red**: Not supported
 
 | Device | Status |
