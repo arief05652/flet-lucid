@@ -3,30 +3,33 @@
 ![PyPI - Downloads](https://img.shields.io/pypi/dw/flet-lucid)
 ![PyPI - Version](https://img.shields.io/pypi/v/flet-lucid)
 
-#### [en_translate](README_en.md)
+#### [id_translate](README.md)
 
 ## Features
 
-- Mudah dipakai
-- mendukung sampai 1600++ macam icon
-- device yang didukung:
+* **Easy to use**
+* Supports over **1600+ icons**
+* **Supported Devices:**
 
 > [!NOTE]
-> **🟢 Green**: berarti bisa di build/dapat berjalan \
-> **🟡 Yellow**: belum di test \
-> **🔴 Red**: tidak di dukung
+> **🟢 Green**: Build successful / Running
+> **🟡 Yellow**: Not yet tested
+> **🔴 Red**: Not supported
 
-| Device  | Status |
+| Device | Status |
 | --- | --- |
 | Android | 🟢 |
 | Linux | 🟢 |
 | Web | 🔴 |
-| Ios | 🟡 |
+| iOS | 🟡 |
 | Windows | 🟡 |
+
+---
 
 ## Requirements
 
-### Use UV
+### Using UV
+
 ```bash
 uv add flet-lucid
 ```
@@ -34,13 +37,11 @@ uv add flet-lucid
 ## How to Use
 
 > [!NOTE]
-> sebelum dijalankan pastikan kamu build terlebih dahulu, kenapa? karna flet harus mendaftarkan terlebih dahulu ke depedensi flutter nya
-
+> Ensure you **build** the project before running it. Why? Because Flet needs to register the package to the Flutter dependencies first.
 
 ```python
 import flet as ft
 from flet_lucid import Icon, Icons
-
 
 def main(page: ft.Page):
     page.vertical_alignment = ft.MainAxisAlignment.CENTER
@@ -50,7 +51,6 @@ def main(page: ft.Page):
     page.add(
         Icon(Icons.AIRPLAY, size=100),   
     )
-
 
 ft.run(main)
 ```
