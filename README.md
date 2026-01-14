@@ -20,8 +20,9 @@
 | --- | --- |
 | Android | 🟢 |
 | Linux | 🟢 |
+| MacOS | 🟢 |
 | Web | 🔴 |
-| Ios | 🟡 |
+| IOS | 🟡 |
 | Windows | 🟡 |
 
 ## Requirements

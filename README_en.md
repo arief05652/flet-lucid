@@ -12,16 +12,17 @@
 * **Supported Devices:**
 
 > [!NOTE]
-> **🟢 Green**: Build successful / Running
-> **🟡 Yellow**: Not yet tested
-> **🔴 Red**: Not supported
+> **🟢 Green**: Build successful / Running \
+> **🟡 Yellow**: Not yet tested \
+> **🔴 Red**: Not supported 
 
 | Device | Status |
 | --- | --- |
 | Android | 🟢 |
 | Linux | 🟢 |
+| MacOS | 🟢 |
 | Web | 🔴 |
-| iOS | 🟡 |
+| IOS | 🟡 |
 | Windows | 🟡 |
 
 ---
