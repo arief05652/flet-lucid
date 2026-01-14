@@ -29,6 +29,9 @@
 
 ## Requirements
 
+> [!TIP]
+> Make sure you are using **flet version 0.80.0 or above** and also using **Python version 3.12 or above**.
+
 ### Using UV
 
 ```bash
