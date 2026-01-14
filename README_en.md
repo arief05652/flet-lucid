@@ -14,7 +14,7 @@
 > [!NOTE]
 > **🟢 Green**: Build successful / Running \
 > **🟡 Yellow**: Not yet tested \
-> **🔴 Red**: Not supported 
+> **🔴 Red**: Not supported
 
 | Device | Status |
 | --- | --- |
