@@ -1,14 +1,14 @@
 Metadata-Version: 2.4
 Name: flet-lucid
-Version: 0.1.0
-Summary: use up to 1600 kinds of lucid icons with the flet framework
-Author-email: Arief Minardi <ariefminardi005@gmail.com>
+Version: 0.2.0
+Summary: use up to 1699 kinds of lucid icons with the flet framework
+Author-email: arief minardi <ariefminardi005@gmail.com>
 Project-URL: Repository, https://github.com/arief05652/flet-lucid
 Project-URL: Issues, https://github.com/arief05652/flet-lucid/issues
 Requires-Python: >=3.12
 Description-Content-Type: text/markdown
 License-File: LICENSE
-Requires-Dist: flet>=0.80.0
+Requires-Dist: flet>=0.85.0
 Dynamic: license-file
 
 # FLET LUCID
@@ -16,6 +16,7 @@ Dynamic: license-file
 ![PyPI - Downloads](https://img.shields.io/pypi/dw/flet-lucid)
 ![PyPI - Version](https://img.shields.io/pypi/v/flet-lucid)
 
+#### [en_translate](README_en.md)
 
 ## Features
 
@@ -32,11 +33,15 @@ Dynamic: license-file
 | --- | --- |
 | Android | 🟢 |
 | Linux | 🟢 |
+| MacOS | 🟢 |
 | Web | 🔴 |
-| Ios | 🟡 |
+| IOS | 🟡 |
 | Windows | 🟡 |
 
 ## Requirements
+
+> [!TIP]
+> Make sure you are using **flet version 0.80.0 or above** and also using **Python version 3.12 or above**.
 
 ### Use UV
 ```bash
