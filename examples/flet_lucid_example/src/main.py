@@ -1,4 +1,5 @@
 import flet as ft
+
 from flet_lucid import Icon, Icons
 
 
@@ -8,7 +9,7 @@ def main(page: ft.Page):
     page.window.always_on_top = True
 
     page.add(
-        Icon(Icons.AIRPLAY, size=100),   
+        Icon(Icons.BEEF_OFF, size=100, color=ft.Colors.AMBER),
     )
 
 
