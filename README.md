@@ -3,7 +3,7 @@
 [![PyPI - Downloads](https://img.shields.io/pypi/dw/flet-lucid)](https://pypi.org/project/flet-lucid/)
 [![PyPI - Version](https://img.shields.io/pypi/v/flet-lucid)](https://pypi.org/project/flet-lucid/)
 [![Python](https://img.shields.io/badge/python-3.12%2B-blue)](https://www.python.org/)
-[![Flet](https://img.shields.io/badge/flet-%3E%3D0.80.0-blue)](https://flet.dev/)
+[![Flet](https://img.shields.io/badge/flet-%3E%3D0.85.0-blue)](https://flet.dev/)
 
 ---
 
