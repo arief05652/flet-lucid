@@ -4,6 +4,7 @@ pyproject.toml
 src/flet_lucid/__init__.py
 src/flet_lucid/flet_lucid.py
 src/flet_lucid/lucid_data.py
+src/flet_lucid/lucid_data_web.py
 src/flet_lucid.egg-info/PKG-INFO
 src/flet_lucid.egg-info/SOURCES.txt
 src/flet_lucid.egg-info/dependency_links.txt
