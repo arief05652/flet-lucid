@@ -29,6 +29,17 @@ with open(python_output, "w") as f:
         enum_name = name.upper()
         f.write(f'  {enum_name} = "{name}"\n')
 
+# create enum for web
+python_output = "src/flet_lucid/lucid_data_web.py"
+with open(python_output, "w") as f:
+    f.write(f"# This Enum Generate by Python Script: {datetime.now()}\n\n")
+    f.write("from enum import Enum\n\n\n")
+    f.write("class WebIcons(Enum):\n")
+
+    for name in json_files:
+        enum_name = name.upper()
+        enum_value = name.replace("_", "-")
+        f.write(f'  {enum_name} = "{enum_value}"\n')
 
 # create dict dart
 dart_output = "src/flutter/flet_lucid/lib/src/lucid_data.dart"
