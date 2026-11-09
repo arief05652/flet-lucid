@@ -1,0 +1,15 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "tow",
+    "shipping",
+    "delivery",
+    "haulage",
+    "vehicle",
+    "equipment",
+    "freight"
+  ],
+  "categories": [
+    "transportation"
+  ]
+}

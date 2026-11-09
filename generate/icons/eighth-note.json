@@ -1,0 +1,13 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "audio",
+    "music",
+    "sound",
+    "note",
+    "quaver"
+  ],
+  "categories": [
+    "multimedia"
+  ]
+}

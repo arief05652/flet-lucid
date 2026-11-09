@@ -1,0 +1,16 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "uppercase",
+    "y-axis",
+    "axis",
+    "yes",
+    "confirm",
+    "year",
+    "time",
+    "chromosome"
+  ],
+  "categories": [
+    "letters-digits"
+  ]
+}

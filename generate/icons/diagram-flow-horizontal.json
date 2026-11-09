@@ -1,0 +1,25 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "mind map",
+    "visualization",
+    "brainstorm",
+    "brainstorming",
+    "ideas",
+    "concepts",
+    "planning",
+    "hierarchy",
+    "branches",
+    "organization",
+    "tree",
+    "workflow",
+    "flowchart",
+    "process",
+    "process mapping",
+    "sequence"
+  ],
+  "categories": [
+    "design",
+    "charts"
+  ]
+}

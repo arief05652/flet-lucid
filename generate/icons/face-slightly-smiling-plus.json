@@ -1,0 +1,12 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "react",
+    "reaction"
+  ],
+  "categories": [
+    "emoji",
+    "social",
+    "communication"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "dot matrix",
+    "dots",
+    "menu",
+    "dashboard",
+    "collection",
+    "overview",
+    "tiles",
+    "grid",
+    "matrix",
+    "launcher",
+    "apps",
+    "widgets",
+    "ui",
+    "circles",
+    "shortcuts"
+  ],
+  "categories": []
+}

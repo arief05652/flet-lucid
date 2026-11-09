@@ -1,0 +1,22 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "send to back",
+    "send backward",
+    "back",
+    "background",
+    "bottom",
+    "bottommost",
+    "lower",
+    "demote",
+    "behind",
+    "reorder",
+    "arrange",
+    "stacking",
+    "z-index",
+    "depth",
+    "graphics",
+    "design"
+  ],
+  "categories": []
+}

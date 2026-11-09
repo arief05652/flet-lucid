@@ -1,0 +1,17 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "uppercase",
+    "z-axis",
+    "axis",
+    "sleep",
+    "rest",
+    "impedance",
+    "electricity",
+    "atomic number",
+    "chemistry"
+  ],
+  "categories": [
+    "letters-digits"
+  ]
+}

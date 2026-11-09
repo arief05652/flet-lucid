@@ -1,0 +1,28 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "milk",
+    "dairy",
+    "beverage",
+    "drink",
+    "diet",
+    "lactose",
+    "liquid",
+    "liter",
+    "litre",
+    "pint",
+    "pints",
+    "pasteurized",
+    "skim",
+    "skimmed",
+    "container",
+    "packaging",
+    "grocery",
+    "juice",
+    "cream",
+    "cow"
+  ],
+  "categories": [
+    "food-beverage"
+  ]
+}

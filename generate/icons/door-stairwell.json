@@ -1,0 +1,30 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "staircase",
+    "stairway",
+    "stairs",
+    "steps",
+    "ladder",
+    "transition",
+    "access",
+    "structure",
+    "spiral",
+    "building",
+    "vertical",
+    "movement",
+    "floor",
+    "level",
+    "entrance",
+    "entry",
+    "exit",
+    "egress",
+    "route",
+    "indoor",
+    "emergency exit"
+  ],
+  "categories": [
+    "buildings",
+    "navigation"
+  ]
+}

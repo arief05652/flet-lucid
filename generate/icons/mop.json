@@ -1,0 +1,26 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "cleaning",
+    "sweeping",
+    "scrubbing",
+    "housekeeping",
+    "hygiene",
+    "sanitation",
+    "chores",
+    "swab",
+    "tidy",
+    "floor",
+    "janitor",
+    "maintenance",
+    "wash",
+    "wipe",
+    "spotless",
+    "pristine",
+    "disinfect"
+  ],
+  "categories": [
+    "home",
+    "tools"
+  ]
+}

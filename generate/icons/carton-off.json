@@ -1,0 +1,11 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "lactose free",
+    "non dairy",
+    "allergy",
+    "intolerance",
+    "vegan"
+  ],
+  "categories": []
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "upload",
+    "push",
+    "upscale"
+  ],
+  "categories": []
+}

@@ -1,0 +1,24 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "greek",
+    "symbol",
+    "math",
+    "function",
+    "programming",
+    "serverless",
+    "anonymous",
+    "functional",
+    "cloud",
+    "wavelength",
+    "calculus",
+    "linear algebra"
+  ],
+  "categories": [
+    "letters-digits",
+    "development",
+    "math",
+    "science",
+    "text"
+  ]
+}

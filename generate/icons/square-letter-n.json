@@ -1,0 +1,19 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "uppercase",
+    "north",
+    "neutral",
+    "gear",
+    "new",
+    "nitrogen",
+    "chemistry",
+    "newton",
+    "force",
+    "sample size",
+    "statistics"
+  ],
+  "categories": [
+    "letters-digits"
+  ]
+}

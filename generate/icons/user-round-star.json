@@ -1,0 +1,12 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "admin",
+    "avatar",
+    "moderator",
+    "verified",
+    "badge",
+    "champion"
+  ],
+  "categories": []
+}

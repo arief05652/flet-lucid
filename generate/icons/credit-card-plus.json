@@ -1,0 +1,21 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "debit",
+    "banking",
+    "finance",
+    "transaction",
+    "wallet",
+    "checkout",
+    "billing",
+    "account",
+    "cardholder",
+    "link",
+    "save",
+    "method",
+    "plastic"
+  ],
+  "categories": [
+    "shopping"
+  ]
+}

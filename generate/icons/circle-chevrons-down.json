@@ -1,0 +1,20 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "bottom",
+    "page",
+    "scroll",
+    "jump",
+    "caret",
+    "button",
+    "skip",
+    "feed",
+    "chat",
+    "pagination",
+    "fast",
+    "media"
+  ],
+  "categories": [
+    "arrows"
+  ]
+}

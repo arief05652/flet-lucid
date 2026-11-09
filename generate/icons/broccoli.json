@@ -1,0 +1,23 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "leafy",
+    "crisp",
+    "fresh",
+    "culinary",
+    "vegetation",
+    "vegetable",
+    "food",
+    "healthy",
+    "vegan",
+    "vegetarian",
+    "nutrition",
+    "diet",
+    "plant",
+    "green",
+    "produce"
+  ],
+  "categories": [
+    "food-beverage"
+  ]
+}

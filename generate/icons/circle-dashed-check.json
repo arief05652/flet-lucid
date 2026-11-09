@@ -1,0 +1,16 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "changes",
+    "revision",
+    "reapproval",
+    "published",
+    "schedule",
+    "assignment",
+    "request",
+    "review"
+  ],
+  "categories": [
+    "notifications"
+  ]
+}

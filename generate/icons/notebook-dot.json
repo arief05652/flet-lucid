@@ -1,0 +1,17 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "document",
+    "file",
+    "page",
+    "paper",
+    "record",
+    "entry",
+    "notebook",
+    "note"
+  ],
+  "categories": [
+    "text",
+    "notifications"
+  ]
+}

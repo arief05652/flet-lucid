@@ -1,0 +1,12 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "waiting",
+    "hourglass",
+    "loading",
+    "pause"
+  ],
+  "categories": [
+    "time"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "dental care",
+    "oral hygiene",
+    "brushing",
+    "teeth",
+    "dentist",
+    "bathroom",
+    "toiletries",
+    "personal care",
+    "cleaning",
+    "bristles",
+    "handle",
+    "plaque",
+    "toothpaste",
+    "self care",
+    "grooming"
+  ],
+  "categories": [
+    "home",
+    "travel",
+    "medical"
+  ]
+}

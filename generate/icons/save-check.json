@@ -1,0 +1,11 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "save",
+    "save-check",
+    "floppy-disk",
+    "saved",
+    "save-success"
+  ],
+  "categories": []
+}

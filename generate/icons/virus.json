@@ -1,0 +1,29 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "pathogen",
+    "infection",
+    "disease",
+    "illness",
+    "contagion",
+    "outbreak",
+    "pandemic",
+    "epidemic",
+    "covid",
+    "coronavirus",
+    "germ",
+    "microbe",
+    "microorganism",
+    "biology",
+    "medical",
+    "healthcare",
+    "malware",
+    "cybersecurity",
+    "threat"
+  ],
+  "categories": [
+    "medical",
+    "science",
+    "security"
+  ]
+}

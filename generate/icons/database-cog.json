@@ -1,0 +1,21 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "db",
+    "settings",
+    "configuration",
+    "preferences",
+    "gear",
+    "admin",
+    "sql",
+    "storage",
+    "server",
+    "maintenance",
+    "schema",
+    "query",
+    "relational"
+  ],
+  "categories": [
+    "development"
+  ]
+}

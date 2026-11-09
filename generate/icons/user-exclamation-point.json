@@ -1,0 +1,13 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "flagged",
+    "suspicious",
+    "reported",
+    "violation",
+    "moderation",
+    "account issue",
+    "review"
+  ],
+  "categories": []
+}

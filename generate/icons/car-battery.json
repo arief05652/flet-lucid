@@ -1,0 +1,20 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "battery",
+    "automobile",
+    "power cell",
+    "electric",
+    "power",
+    "electricity",
+    "energy",
+    "accumulator",
+    "charge",
+    "transport",
+    "vehicle",
+    "car"
+  ],
+  "categories": [
+    "devices"
+  ]
+}

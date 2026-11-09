@@ -1,0 +1,38 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "rashers",
+    "smoked",
+    "streaky",
+    "crispy",
+    "meat",
+    "fast food",
+    "junk food",
+    "snack",
+    "dish",
+    "restaurant",
+    "brunch",
+    "lunch",
+    "meal",
+    "savory",
+    "savoury",
+    "cookery",
+    "cooking",
+    "grilled",
+    "barbecue",
+    "barbeque",
+    "bbq",
+    "pig",
+    "pork",
+    "breakfast",
+    "cured",
+    "butcher",
+    "sandwich",
+    "protein",
+    "grocery",
+    "kitchen"
+  ],
+  "categories": [
+    "food-beverage"
+  ]
+}

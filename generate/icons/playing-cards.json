@@ -1,0 +1,31 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "deck",
+    "stack",
+    "shuffle",
+    "deal",
+    "draw",
+    "hand",
+    "tabletop",
+    "planning poker",
+    "scrum",
+    "agile",
+    "estimation",
+    "estimate",
+    "flashcards",
+    "study",
+    "learning",
+    "collectible",
+    "collection",
+    "trading",
+    "poker",
+    "casino",
+    "game",
+    "gambling",
+    "suit"
+  ],
+  "categories": [
+    "gaming"
+  ]
+}

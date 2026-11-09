@@ -1,0 +1,17 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "uppercase",
+    "grade",
+    "rating",
+    "accessibility",
+    "blood type",
+    "audio",
+    "ampere",
+    "electricity",
+    "appearance"
+  ],
+  "categories": [
+    "letters-digits"
+  ]
+}

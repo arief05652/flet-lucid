@@ -1,0 +1,20 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "scan",
+    "detect",
+    "recognition",
+    "object",
+    "viewfinder",
+    "capture",
+    "shape",
+    "scanner",
+    "overlay",
+    "crop",
+    "marker"
+  ],
+  "categories": [
+    "photography",
+    "design"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "fruit",
+    "snack",
+    "meal",
+    "lunch",
+    "ingredient",
+    "cooking",
+    "cookery",
+    "kitchen",
+    "cuisine",
+    "eating",
+    "healthy",
+    "nutrition",
+    "diet",
+    "guacamole",
+    "mexican",
+    "green",
+    "pit",
+    "seed",
+    "half",
+    "produce",
+    "vegetarian",
+    "vegan",
+    "grocery",
+    "supermarket",
+    "toast",
+    "superfood",
+    "plant based",
+    "ripe"
+  ],
+  "categories": [
+    "food-beverage"
+  ]
+}

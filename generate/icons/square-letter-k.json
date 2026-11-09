@@ -1,0 +1,15 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "uppercase",
+    "thousand",
+    "kilo",
+    "kelvin",
+    "temperature",
+    "potassium",
+    "chemistry"
+  ],
+  "categories": [
+    "letters-digits"
+  ]
+}

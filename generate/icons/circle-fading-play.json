@@ -1,0 +1,21 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "short clips",
+    "shorts",
+    "reels",
+    "stories",
+    "video",
+    "highlights",
+    "social media",
+    "content",
+    "teaser",
+    "clip",
+    "short form",
+    "vertical video"
+  ],
+  "categories": [
+    "multimedia",
+    "social"
+  ]
+}

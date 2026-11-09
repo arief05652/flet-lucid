@@ -1,0 +1,13 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "symbol",
+    "europe",
+    "\u20ac",
+    "euro",
+    "coin"
+  ],
+  "categories": [
+    "finance"
+  ]
+}

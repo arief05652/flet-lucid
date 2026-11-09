@@ -1,0 +1,15 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "uppercase",
+    "learner",
+    "driver",
+    "litre",
+    "left",
+    "length",
+    "measurement"
+  ],
+  "categories": [
+    "letters-digits"
+  ]
+}

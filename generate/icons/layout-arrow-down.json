@@ -1,0 +1,19 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "layout",
+    "flex",
+    "flexbox",
+    "flex-direction",
+    "column",
+    "auto layout",
+    "arrange",
+    "order",
+    "flow",
+    "stack"
+  ],
+  "categories": [
+    "design",
+    "layout"
+  ]
+}

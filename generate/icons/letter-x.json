@@ -1,0 +1,20 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "uppercase",
+    "close",
+    "dismiss",
+    "multiply",
+    "math",
+    "unknown",
+    "variable",
+    "x-axis",
+    "axis",
+    "intersection",
+    "cross",
+    "chromosome"
+  ],
+  "categories": [
+    "letters-digits"
+  ]
+}

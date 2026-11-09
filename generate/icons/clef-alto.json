@@ -1,0 +1,21 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "do",
+    "c",
+    "music",
+    "note",
+    "key",
+    "soprano",
+    "mezzo",
+    "alto",
+    "staff",
+    "pitch",
+    "baritone",
+    "major",
+    "scale"
+  ],
+  "categories": [
+    "multimedia"
+  ]
+}

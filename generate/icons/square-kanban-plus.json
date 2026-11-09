@@ -1,0 +1,27 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "board",
+    "project",
+    "add",
+    "create",
+    "plus",
+    "agile",
+    "tickets",
+    "issues",
+    "productivity",
+    "columns",
+    "workflow",
+    "planning",
+    "dashboard",
+    "workspace",
+    "collaboration",
+    "cards"
+  ],
+  "categories": [
+    "charts",
+    "development",
+    "design",
+    "layout"
+  ]
+}

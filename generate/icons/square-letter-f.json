@@ -1,0 +1,19 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "uppercase",
+    "fahrenheit",
+    "temperature",
+    "female",
+    "fail",
+    "grade",
+    "rating",
+    "force",
+    "aperture",
+    "f-stop",
+    "camera"
+  ],
+  "categories": [
+    "letters-digits"
+  ]
+}

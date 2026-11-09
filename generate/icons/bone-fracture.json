@@ -1,0 +1,24 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "bone",
+    "fracture",
+    "injury",
+    "orthopedic",
+    "medical",
+    "anatomy",
+    "skeletal",
+    "broken",
+    "xray",
+    "trauma",
+    "health",
+    "vet",
+    "veterinary",
+    "crack",
+    "break",
+    "damage"
+  ],
+  "categories": [
+    "medical"
+  ]
+}

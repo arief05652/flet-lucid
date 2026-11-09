@@ -1,0 +1,21 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "audio",
+    "broadcast",
+    "signal",
+    "wireless",
+    "airwaves",
+    "talk",
+    "voice",
+    "speech",
+    "stream",
+    "live",
+    "voice chat",
+    "push to talk",
+    "transmission"
+  ],
+  "categories": [
+    "connectivity"
+  ]
+}

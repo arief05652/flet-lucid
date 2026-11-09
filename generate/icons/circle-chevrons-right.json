@@ -1,0 +1,25 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "next",
+    "skip",
+    "fast forward",
+    "last",
+    "music",
+    "caret",
+    "button",
+    "pagination",
+    "jump",
+    "seek",
+    "seek forward",
+    "player control",
+    "chapter",
+    "track",
+    "timeline",
+    "navigation control"
+  ],
+  "categories": [
+    "arrows",
+    "multimedia"
+  ]
+}

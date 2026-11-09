@@ -1,0 +1,17 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "folder",
+    "bookmark",
+    "file",
+    "mark",
+    "storage",
+    "archive",
+    "project",
+    "favorite",
+    "favourite",
+    "save",
+    "read later"
+  ],
+  "categories": []
+}

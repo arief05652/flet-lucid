@@ -1,0 +1,19 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "strong",
+    "emphasis",
+    "format",
+    "uppercase",
+    "bold",
+    "blood type",
+    "byte",
+    "computing",
+    "b-side",
+    "bus",
+    "transit"
+  ],
+  "categories": [
+    "letters-digits"
+  ]
+}

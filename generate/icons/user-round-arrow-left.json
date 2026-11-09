@@ -1,0 +1,20 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "assign",
+    "move",
+    "give",
+    "setup",
+    "self",
+    "me",
+    "myself",
+    "avatar",
+    "incoming",
+    "recipient",
+    "assignee",
+    "inbound"
+  ],
+  "categories": [
+    "people"
+  ]
+}

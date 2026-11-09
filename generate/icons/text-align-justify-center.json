@@ -1,0 +1,14 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "paragraph",
+    "alignment",
+    "justified",
+    "center",
+    "middle",
+    "typography",
+    "editor",
+    "document"
+  ],
+  "categories": []
+}

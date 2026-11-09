@@ -1,0 +1,17 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "shared",
+    "document",
+    "group",
+    "team",
+    "permission",
+    "access",
+    "collaboration",
+    "organization"
+  ],
+  "categories": [
+    "account",
+    "people"
+  ]
+}

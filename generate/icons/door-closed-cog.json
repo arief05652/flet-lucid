@@ -1,0 +1,12 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "room",
+    "access",
+    "automation"
+  ],
+  "categories": [
+    "home",
+    "security"
+  ]
+}

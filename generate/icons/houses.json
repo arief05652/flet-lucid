@@ -1,0 +1,23 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "homes",
+    "housing",
+    "estate",
+    "living",
+    "buildings",
+    "development",
+    "residences",
+    "residential",
+    "village",
+    "neighbourhood",
+    "accommodation",
+    "community",
+    "dwellings",
+    "architecture"
+  ],
+  "categories": [
+    "buildings",
+    "home"
+  ]
+}

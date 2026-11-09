@@ -1,0 +1,25 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "padding",
+    "design",
+    "style",
+    "margin",
+    "spacing",
+    "gap",
+    "inner spacing",
+    "box model",
+    "whitespace",
+    "space",
+    "offset",
+    "alignment",
+    "position",
+    "layout",
+    "css",
+    "ui"
+  ],
+  "categories": [
+    "layout",
+    "design"
+  ]
+}

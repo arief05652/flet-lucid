@@ -1,0 +1,12 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "error",
+    "failed",
+    "invalid",
+    "rejected",
+    "denied",
+    "disconnect"
+  ],
+  "categories": []
+}

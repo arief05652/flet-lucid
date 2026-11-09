@@ -1,0 +1,17 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "123",
+    "digits",
+    "counting",
+    "quantity",
+    "math",
+    "sequence",
+    "integer"
+  ],
+  "categories": [
+    "letters-digits",
+    "text",
+    "math"
+  ]
+}

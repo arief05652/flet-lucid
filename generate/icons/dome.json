@@ -1,0 +1,29 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "roof",
+    "cupola",
+    "rotunda",
+    "shelter",
+    "building",
+    "architecture",
+    "structure",
+    "church",
+    "christian",
+    "orthodox",
+    "byzantine",
+    "cathedral",
+    "basilica",
+    "chapel",
+    "monument",
+    "landmark",
+    "museum",
+    "observatory",
+    "heritage"
+  ],
+  "categories": [
+    "buildings",
+    "navigation",
+    "travel"
+  ]
+}

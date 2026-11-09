@@ -1,0 +1,12 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "socket",
+    "plug",
+    "slot",
+    "data",
+    "input",
+    "output"
+  ],
+  "categories": []
+}

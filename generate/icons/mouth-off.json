@@ -1,0 +1,13 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "mute",
+    "silence",
+    "speechless",
+    "taste loss",
+    "flavor loss",
+    "ageusia",
+    "tasteless"
+  ],
+  "categories": []
+}

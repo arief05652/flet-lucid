@@ -1,0 +1,17 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "uppercase",
+    "watt",
+    "power",
+    "west",
+    "width",
+    "measurement",
+    "tungsten",
+    "chemistry",
+    "win"
+  ],
+  "categories": [
+    "letters-digits"
+  ]
+}

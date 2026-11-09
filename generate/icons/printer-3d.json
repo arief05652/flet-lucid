@@ -1,0 +1,27 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "model",
+    "hardware",
+    "technology",
+    "device",
+    "factory",
+    "manufacturing",
+    "art",
+    "extruder",
+    "stl",
+    "obj",
+    "step",
+    "additive",
+    "fabrication",
+    "rapid prototype",
+    "layer",
+    "filament",
+    "nozzle",
+    "maker",
+    "machine"
+  ],
+  "categories": [
+    "tools"
+  ]
+}

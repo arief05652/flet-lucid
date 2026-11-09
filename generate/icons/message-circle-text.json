@@ -1,0 +1,20 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "speech",
+    "bubble",
+    "sms",
+    "texting",
+    "messaging",
+    "dm",
+    "discussion",
+    "thread",
+    "transcript",
+    "written",
+    "writing",
+    "lines",
+    "support",
+    "chatbot"
+  ],
+  "categories": []
+}

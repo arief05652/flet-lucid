@@ -1,0 +1,13 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "reflect",
+    "mirror",
+    "alignment",
+    "dashed"
+  ],
+  "categories": [
+    "design",
+    "photography"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "bring to front",
+    "bring forward",
+    "front",
+    "foreground",
+    "top",
+    "topmost",
+    "raise",
+    "lift",
+    "promote",
+    "reorder",
+    "arrange",
+    "stacking",
+    "z-index",
+    "depth",
+    "graphics",
+    "design"
+  ],
+  "categories": []
+}

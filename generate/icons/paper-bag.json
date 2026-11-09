@@ -1,0 +1,17 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "storage",
+    "package",
+    "lunch",
+    "takeout",
+    "eco-friendly",
+    "kraft",
+    "retail",
+    "doggy bag"
+  ],
+  "categories": [
+    "food-beverage",
+    "shopping"
+  ]
+}

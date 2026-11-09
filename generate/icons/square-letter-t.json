@@ -1,0 +1,15 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "uppercase",
+    "tesla",
+    "magnetism",
+    "temperature",
+    "tonne",
+    "measurement",
+    "time"
+  ],
+  "categories": [
+    "letters-digits"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "audio",
+    "waveform",
+    "sound waves",
+    "talk",
+    "voice",
+    "speech",
+    "stream",
+    "recording",
+    "transcription",
+    "dictation",
+    "voice assistant",
+    "noise cancellation",
+    "sound processing"
+  ],
+  "categories": [
+    "devices",
+    "communication",
+    "multimedia"
+  ]
+}

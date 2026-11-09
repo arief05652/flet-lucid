@@ -1,0 +1,13 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "avatar",
+    "owner",
+    "authentication"
+  ],
+  "categories": [
+    "account",
+    "devices",
+    "people"
+  ]
+}

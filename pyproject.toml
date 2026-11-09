@@ -1,14 +1,14 @@
 [project]
 name = "flet-lucid"
-version = "0.2.1"
-description = "use up to 1699 kinds of lucid icons with the flet framework"
+version = "0.3.0"
+description = "use 2000+ lucide icons with the flet framework"
 readme = "README.md"
 requires-python = ">=3.10"
 authors = [
     { name = "arief minardi", email = "ariefminardi005@gmail.com" }
 ]
 dependencies = [
-    "flet>=0.80.0",
+    "flet>=1.1.2",
 ]
 
 [project.urls]

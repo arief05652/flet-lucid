@@ -1,0 +1,23 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "line",
+    "left",
+    "shape",
+    "symbol",
+    "navigation",
+    "arrow",
+    "pointer",
+    "code",
+    "version control",
+    "waypoint",
+    "stop",
+    "start",
+    "first",
+    "station"
+  ],
+  "categories": [
+    "development",
+    "navigation"
+  ]
+}

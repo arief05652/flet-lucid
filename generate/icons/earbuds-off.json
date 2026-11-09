@@ -1,0 +1,26 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "earphones",
+    "audio",
+    "sound",
+    "bluetooth",
+    "wireless",
+    "music",
+    "noise cancelling",
+    "acoustics",
+    "stereo",
+    "media",
+    "listen",
+    "pairing",
+    "hands-free",
+    "speaker",
+    "volume",
+    "disconnected",
+    "disabled",
+    "inactive"
+  ],
+  "categories": [
+    "devices"
+  ]
+}

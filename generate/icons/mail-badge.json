@@ -1,0 +1,20 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "certified",
+    "registered",
+    "seal",
+    "stamp",
+    "verified",
+    "envelope",
+    "rosette",
+    "signed",
+    "official",
+    "delivery"
+  ],
+  "categories": [
+    "mail",
+    "communication",
+    "security"
+  ]
+}

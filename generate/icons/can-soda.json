@@ -1,0 +1,14 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "beverage",
+    "drink",
+    "food",
+    "soda",
+    "tin",
+    "beer",
+    "alcohol",
+    "waste"
+  ],
+  "categories": []
+}

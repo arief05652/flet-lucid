@@ -1,0 +1,21 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "vehicle",
+    "power",
+    "energy",
+    "drive",
+    "repair",
+    "car",
+    "motor",
+    "mechanical",
+    "diagnostics",
+    "maintenance",
+    "warning",
+    "dashboard",
+    "parts"
+  ],
+  "categories": [
+    "transportation"
+  ]
+}

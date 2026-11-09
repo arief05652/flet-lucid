@@ -1,0 +1,22 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "group",
+    "team",
+    "community",
+    "membership",
+    "collaboration",
+    "organization",
+    "directory",
+    "staff",
+    "family",
+    "ancestry",
+    "ancestors",
+    "lineage",
+    "parents"
+  ],
+  "categories": [
+    "people",
+    "social"
+  ]
+}

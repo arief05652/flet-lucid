@@ -1,0 +1,24 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "3d",
+    "object detection",
+    "object recognition",
+    "tracking",
+    "spatial computing",
+    "capture",
+    "cube",
+    "bounding box",
+    "shape",
+    "lidar",
+    "depth",
+    "scanning",
+    "mapping",
+    "placement"
+  ],
+  "categories": [
+    "design",
+    "devices",
+    "shopping"
+  ]
+}

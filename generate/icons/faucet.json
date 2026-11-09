@@ -1,0 +1,33 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "tap",
+    "spigot",
+    "water",
+    "drinking",
+    "fresh",
+    "source",
+    "pipes",
+    "plumbing",
+    "plumber",
+    "sink",
+    "basin",
+    "kitchen",
+    "bathroom",
+    "washroom",
+    "fixture",
+    "valve",
+    "flow",
+    "drinkable",
+    "potable",
+    "amenities",
+    "utilities",
+    "hydration"
+  ],
+  "categories": [
+    "food-beverage",
+    "home",
+    "navigation",
+    "travel"
+  ]
+}

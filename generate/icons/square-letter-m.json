@@ -1,0 +1,23 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "metro",
+    "subway",
+    "underground",
+    "track",
+    "line",
+    "uppercase",
+    "million",
+    "mega",
+    "metre",
+    "measurement",
+    "male",
+    "medium",
+    "size"
+  ],
+  "categories": [
+    "letters-digits",
+    "transportation",
+    "navigation"
+  ]
+}

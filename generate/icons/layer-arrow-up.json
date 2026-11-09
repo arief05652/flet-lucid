@@ -1,0 +1,24 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "move forward",
+    "forward",
+    "raise",
+    "lift",
+    "promote",
+    "advance",
+    "step forward",
+    "reorder",
+    "arrange",
+    "stack",
+    "stacking",
+    "z-index",
+    "depth",
+    "graphics",
+    "design"
+  ],
+  "categories": [
+    "design",
+    "layout"
+  ]
+}

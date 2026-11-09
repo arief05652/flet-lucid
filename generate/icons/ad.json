@@ -1,0 +1,24 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "advert",
+    "affiliate",
+    "brand",
+    "campaign",
+    "commercial",
+    "marketing",
+    "monetize",
+    "paid",
+    "partner",
+    "promo",
+    "sponsor",
+    "audio description",
+    "video description",
+    "described video",
+    "visual description"
+  ],
+  "categories": [
+    "multimedia",
+    "accessibility"
+  ]
+}

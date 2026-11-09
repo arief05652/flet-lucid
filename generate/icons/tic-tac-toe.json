@@ -1,0 +1,13 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "game",
+    "board",
+    "grid",
+    "strategy",
+    "noughts and crosses"
+  ],
+  "categories": [
+    "gaming"
+  ]
+}

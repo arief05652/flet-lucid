@@ -1,0 +1,15 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "uppercase",
+    "oxygen",
+    "chemistry",
+    "blood type",
+    "off",
+    "zero",
+    "marker"
+  ],
+  "categories": [
+    "letters-digits"
+  ]
+}

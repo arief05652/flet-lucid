@@ -8,7 +8,7 @@ class Extension extends FletExtension {
   Widget? createWidget(Key? key, Control control) {
     switch (control.type) {
       case "LucidIcon":
-        return FletLucidControl(control: control);
+        return FletLucidControl(key: key, control: control);
       default:
         return null;
     }

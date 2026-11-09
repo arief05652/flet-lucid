@@ -1,0 +1,12 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "audio",
+    "mute",
+    "silence",
+    "equalizer",
+    "equaliser",
+    "waveform"
+  ],
+  "categories": []
+}

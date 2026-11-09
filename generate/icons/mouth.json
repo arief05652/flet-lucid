@@ -1,0 +1,25 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "speech",
+    "voice",
+    "talk",
+    "speaking",
+    "taste",
+    "tasting",
+    "flavor",
+    "palate",
+    "tongue",
+    "gustatory",
+    "oral",
+    "dental",
+    "expression",
+    "communication",
+    "accessibility"
+  ],
+  "categories": [
+    "medical",
+    "accessibility",
+    "communication"
+  ]
+}
