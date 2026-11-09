@@ -1,0 +1,25 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "food",
+    "vegetables",
+    "health",
+    "grocery",
+    "market",
+    "farmer",
+    "produce",
+    "pantry",
+    "paper bag",
+    "shop",
+    "supermarket",
+    "retail",
+    "delivery",
+    "larder",
+    "provisions",
+    "takeout"
+  ],
+  "categories": [
+    "food-beverage",
+    "shopping"
+  ]
+}

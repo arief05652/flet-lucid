@@ -1,0 +1,15 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "briefcase",
+    "portfolio",
+    "business",
+    "career",
+    "employment",
+    "professional"
+  ],
+  "categories": [
+    "files",
+    "account"
+  ]
+}

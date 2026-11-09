@@ -1,0 +1,20 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "flowchart",
+    "workflow",
+    "hierarchy",
+    "branches",
+    "tree",
+    "parent",
+    "child",
+    "process",
+    "sequence",
+    "decision tree"
+  ],
+  "categories": [
+    "design",
+    "charts",
+    "development"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "uppercase",
+    "registered trademark",
+    "trademark",
+    "right",
+    "reverse",
+    "gear",
+    "resistance",
+    "electricity",
+    "radius",
+    "geometry",
+    "rating",
+    "review"
+  ],
+  "categories": [
+    "letters-digits"
+  ]
+}

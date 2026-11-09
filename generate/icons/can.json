@@ -1,0 +1,18 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "food",
+    "storage",
+    "groceries",
+    "tin",
+    "metal",
+    "recyclable",
+    "container",
+    "pantry",
+    "grocery",
+    "preserved"
+  ],
+  "categories": [
+    "food-beverage"
+  ]
+}

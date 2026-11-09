@@ -1,0 +1,26 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "comment",
+    "chat",
+    "conversation",
+    "dialog",
+    "feedback",
+    "speech bubbles",
+    "copy",
+    "multiple",
+    "discussion",
+    "interview",
+    "debate",
+    "group",
+    "group chat",
+    "threads",
+    "unread",
+    "bubble",
+    "messaging"
+  ],
+  "categories": [
+    "social",
+    "communication"
+  ]
+}

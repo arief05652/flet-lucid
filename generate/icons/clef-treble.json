@@ -1,0 +1,20 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "sol",
+    "g",
+    "music",
+    "note",
+    "key",
+    "treble",
+    "staff",
+    "pitch",
+    "violin",
+    "solfege",
+    "major",
+    "scale"
+  ],
+  "categories": [
+    "multimedia"
+  ]
+}

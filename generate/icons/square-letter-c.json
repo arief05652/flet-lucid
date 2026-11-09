@@ -1,0 +1,15 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "uppercase",
+    "celsius",
+    "temperature",
+    "carbon",
+    "chemistry",
+    "grade",
+    "rating"
+  ],
+  "categories": [
+    "letters-digits"
+  ]
+}

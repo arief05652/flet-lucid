@@ -1,0 +1,20 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "brief",
+    "abstract",
+    "synopsis",
+    "report",
+    "digest",
+    "outline",
+    "recap",
+    "condensation",
+    "summary",
+    "ai",
+    "text",
+    "overview"
+  ],
+  "categories": [
+    "text"
+  ]
+}

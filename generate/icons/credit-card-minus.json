@@ -1,0 +1,20 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "debit",
+    "unlink",
+    "revoke",
+    "decline",
+    "canceled",
+    "banking",
+    "finance",
+    "wallet",
+    "transaction",
+    "billing",
+    "account",
+    "checkout"
+  ],
+  "categories": [
+    "shopping"
+  ]
+}

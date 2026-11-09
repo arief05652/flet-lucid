@@ -1,0 +1,24 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "atm",
+    "terminal",
+    "checkout",
+    "kiosk",
+    "pos",
+    "point of sale",
+    "transaction",
+    "contactless",
+    "chip",
+    "swipe",
+    "tap",
+    "banking",
+    "finance",
+    "retail"
+  ],
+  "categories": [
+    "finance",
+    "navigation",
+    "shopping"
+  ]
+}

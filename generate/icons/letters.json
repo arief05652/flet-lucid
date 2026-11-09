@@ -1,0 +1,14 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "abc",
+    "alphabetical",
+    "characters",
+    "language",
+    "literacy",
+    "spelling"
+  ],
+  "categories": [
+    "letters-digits"
+  ]
+}

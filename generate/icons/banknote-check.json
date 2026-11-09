@@ -1,0 +1,11 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "banknote",
+    "document",
+    "verification",
+    "found",
+    "paid"
+  ],
+  "categories": []
+}

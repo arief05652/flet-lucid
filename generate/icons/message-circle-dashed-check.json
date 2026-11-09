@@ -1,0 +1,14 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "pending",
+    "provisional",
+    "verification",
+    "confirmation",
+    "status",
+    "approval",
+    "moderate",
+    "resolved"
+  ],
+  "categories": []
+}

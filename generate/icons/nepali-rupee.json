@@ -1,0 +1,11 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "nepal",
+    "rupee",
+    "npr"
+  ],
+  "categories": [
+    "finance"
+  ]
+}

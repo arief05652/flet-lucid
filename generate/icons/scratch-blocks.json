@@ -1,0 +1,22 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "code",
+    "blocks",
+    "scratch",
+    "turbowarp",
+    "mistwarp",
+    "visual programming",
+    "block-based",
+    "drag-and-drop",
+    "editor",
+    "education",
+    "learning",
+    "programming",
+    "kids",
+    "integration"
+  ],
+  "categories": [
+    "development"
+  ]
+}

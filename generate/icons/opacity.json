@@ -1,0 +1,22 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "opacity",
+    "opaque",
+    "transparency",
+    "visibility",
+    "fade",
+    "lens",
+    "glass",
+    "blur",
+    "filter",
+    "clear",
+    "mask",
+    "cover",
+    "gradient"
+  ],
+  "categories": [
+    "design",
+    "photography"
+  ]
+}

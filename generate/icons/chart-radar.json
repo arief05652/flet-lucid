@@ -1,0 +1,22 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "radar",
+    "chart",
+    "shape",
+    "gem",
+    "mineral",
+    "pentagon",
+    "multidimensional",
+    "metrics",
+    "performance",
+    "comparison",
+    "profile",
+    "attributes"
+  ],
+  "categories": [
+    "charts",
+    "shapes",
+    "science"
+  ]
+}

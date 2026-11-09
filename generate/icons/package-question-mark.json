@@ -1,0 +1,11 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "unresolved",
+    "placeholder",
+    "pending",
+    "lost",
+    "dependency"
+  ],
+  "categories": []
+}

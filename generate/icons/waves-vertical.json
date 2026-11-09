@@ -1,0 +1,20 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "steam",
+    "warmth",
+    "temperature",
+    "burn",
+    "hot",
+    "boiling",
+    "heat",
+    "smoke",
+    "vapor",
+    "smell",
+    "aroma",
+    "sauna"
+  ],
+  "categories": [
+    "weather"
+  ]
+}

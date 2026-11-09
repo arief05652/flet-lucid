@@ -1,0 +1,13 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "document",
+    "home folder",
+    "shared",
+    "access",
+    "owner"
+  ],
+  "categories": [
+    "account"
+  ]
+}

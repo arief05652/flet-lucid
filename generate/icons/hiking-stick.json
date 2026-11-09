@@ -1,0 +1,20 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "hiking",
+    "walking",
+    "stick",
+    "trekking",
+    "trail",
+    "pole",
+    "backpacking",
+    "outdoors",
+    "mountains"
+  ],
+  "categories": [
+    "sports",
+    "travel",
+    "nature",
+    "navigation"
+  ]
+}

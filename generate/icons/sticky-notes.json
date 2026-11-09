@@ -1,0 +1,26 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "post-it",
+    "annotation",
+    "memo",
+    "reminder",
+    "todo",
+    "tasks",
+    "ideas",
+    "brainstorm",
+    "documents",
+    "notes",
+    "multiple",
+    "collection",
+    "group",
+    "stack",
+    "clone",
+    "duplicate",
+    "copy"
+  ],
+  "categories": [
+    "text",
+    "social"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "uppercase",
+    "voltage",
+    "volt",
+    "electricity",
+    "volume",
+    "victory",
+    "success",
+    "vegan",
+    "vegetarian",
+    "video"
+  ],
+  "categories": [
+    "letters-digits"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "collaboration",
+    "team",
+    "communication",
+    "cooperative",
+    "workspace",
+    "peer-to-peer",
+    "p2p",
+    "shared",
+    "delegation",
+    "handoff",
+    "coauthor"
+  ],
+  "categories": [
+    "social"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "distribution",
+    "normal distribution",
+    "gaussian",
+    "probability",
+    "frequency",
+    "density",
+    "symmetric",
+    "standard deviation"
+  ],
+  "categories": [
+    "charts",
+    "math"
+  ]
+}

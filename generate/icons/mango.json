@@ -1,0 +1,20 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "fruit",
+    "food",
+    "tropical",
+    "summer",
+    "exotic",
+    "healthy",
+    "ripe",
+    "yellow",
+    "juice",
+    "smoothie",
+    "snack",
+    "produce"
+  ],
+  "categories": [
+    "food-beverage"
+  ]
+}

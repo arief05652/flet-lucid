@@ -1,0 +1,30 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "grave",
+    "gravestone",
+    "headstone",
+    "cemetery",
+    "graveyard",
+    "death",
+    "memorial",
+    "funeral",
+    "halloween",
+    "rip",
+    "obituary",
+    "deceased",
+    "epitaph",
+    "mourning",
+    "bereavement",
+    "condolence",
+    "deprecated",
+    "retired",
+    "archived",
+    "decommissioned"
+  ],
+  "categories": [
+    "gaming",
+    "navigation",
+    "development"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "map",
+    "vector",
+    "geometry",
+    "coordinates",
+    "shape",
+    "location",
+    "boundary",
+    "area",
+    "region",
+    "gis",
+    "geospatial",
+    "vertices",
+    "points",
+    "outline",
+    "drawing",
+    "design",
+    "math"
+  ],
+  "categories": [
+    "design",
+    "math",
+    "shapes"
+  ]
+}

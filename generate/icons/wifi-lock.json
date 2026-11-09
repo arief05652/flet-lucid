@@ -1,0 +1,15 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "admin",
+    "hotspot",
+    "ssid",
+    "guest",
+    "router",
+    "access",
+    "authentication"
+  ],
+  "categories": [
+    "security"
+  ]
+}

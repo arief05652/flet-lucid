@@ -1,0 +1,16 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "property",
+    "household",
+    "connectivity",
+    "building",
+    "residence"
+  ],
+  "categories": [
+    "security",
+    "development",
+    "home",
+    "connectivity"
+  ]
+}

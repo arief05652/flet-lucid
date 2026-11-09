@@ -1,0 +1,15 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "arrow",
+    "previous",
+    "past",
+    "earlier",
+    "reschedule",
+    "postpone",
+    "schedule",
+    "timeline",
+    "date picker"
+  ],
+  "categories": []
+}

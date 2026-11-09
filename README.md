@@ -1,93 +1,141 @@
-# 🎨 FLET LUCID
+# Flet Lucid
 
-[![PyPI - Downloads](https://img.shields.io/pypi/dw/flet-lucid)](https://pypi.org/project/flet-lucid/)
+Lucide icons for [Flet](https://flet.dev) — 2,000+ icons exposed as a native Flutter control.
+
 [![PyPI - Version](https://img.shields.io/pypi/v/flet-lucid)](https://pypi.org/project/flet-lucid/)
+[![PyPI - Downloads](https://img.shields.io/pypi/dw/flet-lucid)](https://pypi.org/project/flet-lucid/)
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/)
-[![Flet](https://img.shields.io/badge/flet-%3E%3D0.80.0-blue)](https://flet.dev/)
-
----
+[![Flet](https://img.shields.io/badge/flet-%3E%3D1.1.2-blue)](https://flet.dev/)
+[![License: MIT](https://img.shields.io/badge/license-MIT-yellow)](LICENSE)
 
 ## Features
 
-- ✅ **Easy to use** — plug directly into your Flet project
-- 🎯 **1600+ icons** — full Lucide icon collection
-- 📦 **Zero extra dependencies** — lightweight & fast
-
-## Platform Compatibility
-
-![Android](https://img.shields.io/badge/Android-supported-brightgreen)
-![Linux](https://img.shields.io/badge/Linux-supported-brightgreen)
-![macOS](https://img.shields.io/badge/macOS-supported-brightgreen)
-![Web](https://img.shields.io/badge/Web-supported-brightgreen)
-![iOS](https://img.shields.io/badge/iOS-untested-yellow)
-![Windows](https://img.shields.io/badge/Windows-untested-yellow)
+- **2,000+ icons** — the full [Lucide](https://lucide.dev) icon set.
+- **Native control** — rendered with Flutter, not text or image assets.
+- **Works everywhere** — Android, Linux, macOS, and web.
+- **Zero asset setup** — the icon font is bundled with the extension.
+- **No extra dependencies** — nothing beyond Flet.
 
 ## Requirements
 
-> [!TIP]
-> Make sure you are using **Flet 0.80.0 or above** and **Python 3.10 or above**.
+- Python 3.10 or newer.
+- Flet 1.1.2 or newer.
 
-### Install with UV
+## Installation
+
+With [uv](https://docs.astral.sh/uv/):
 
 ```bash
 uv add flet-lucid
 ```
 
-### Install with pip
+With pip:
 
 ```bash
 pip install flet-lucid
 ```
 
-## How to Use
-
-> [!NOTE]
-> Make sure to **build** your project first before running it. Flet needs to register the package into its Flutter dependencies.
-
-1. **Import the package**
-
-```python
-from flet_lucid import Icon, Icons
-```
-
-2. **For non-web apps (Android, Linux, macOS, Windows)** — use it directly:
-
-```python
-Icon(Icons.AIRPLAY)
-```
-
-3. **For web apps** — include the Lucide font. You can download it [here](https://github.com/arief05652/flet-lucid/tree/main/examples/flet_lucid_example/src/assets/fonts/lucide.ttf).
+## Quick Start
 
 ```python
 import flet as ft
 
-from flet_lucid import WebIcons
+from flet_lucid import Icon, Icons
 
 
 def main(page: ft.Page):
-    page.fonts = {"lucide": "/fonts/lucide.ttf"}
-
     page.add(
-        ft.Text(
-            value=WebIcons.APP_WINDOW_MAC.value,
-            style=ft.TextStyle(
-                size=100,
-                font_family="lucide",
-            ),
-        ),
+        Icon(Icons.AIRPLAY, size=48, color=ft.Colors.BLUE),
     )
 
 
-ft.run(main, assets_dir="assets")
+ft.run(main)
+```
+
+> [!IMPORTANT]
+> Build your Flet project before running it. Flet must register the package in its Flutter dependencies.
+
+```bash
+flet build linux   # or: flet build web, flet build apk
+```
+
+## Usage
+
+### Basic icon
+
+```python
+Icon(Icons.ALIGN_VERTICAL_DISTRIBUTE_START, size=100)
+```
+
+### Color and accessibility
+
+```python
+Icon(
+    Icons.SHIELD_CHECK,
+    size=32,
+    color=ft.Colors.GREEN,
+    semantics_label="Verified",
+)
+```
+
+### Icon properties
+
+| Property | Type | Description |
+| --- | --- | --- |
+| `icon` | `Icons` | Icon to render. Required. |
+| `size` | `Number` | Icon size in logical pixels. |
+| `color` | `ColorValue` | Icon color. Accepts `ft.Colors`, hex, etc. |
+| `blend_mode` | `BlendMode` | Blend mode used when drawing the icon. |
+| `semantics_label` | `str` | Accessibility label for screen readers. |
+| `apply_text_scaling` | `bool` | Follow the system text scale. |
+| `fill` | `Number` | Variable-font fill level (`0.0` outline, `1.0` solid). |
+| `grade` | `Number` | Variable-font grade adjustment. |
+| `weight` | `Number` | Variable-font stroke weight. |
+| `optical_size` | `Number` | Variable-font optical size. |
+| `shadows` | `BoxShadowValue` | Shadow applied to the icon. |
+
+## Finding Icons
+
+Browse all available icons at [lucide.dev/icons](https://lucide.dev/icons). Enum names follow the icon name in uppercase with underscores:
+
+```python
+Icons.APP_WINDOW_MAC   # app-window-mac
+Icons.ARROW_UP_RIGHT   # arrow-up-right
+```
+
+## Platform Support
+
+| Platform | Status |
+| --- | --- |
+| Android | Supported |
+| Linux | Supported |
+| macOS | Supported |
+| Web | Supported |
+| iOS | Untested |
+| Windows | Untested |
+
+## Development
+
+```bash
+git clone https://github.com/arief05652/flet-lucid.git
+cd flet-lucid
+just sync
+just run
+```
+
+Useful commands:
+
+```bash
+just generate      # regenerate the Icons enum and Dart map
+just run web       # run the example on web
+just build linux   # build the example
 ```
 
 ## Built With
 
-This repository is built on top of [flutter_lucide](https://pub.dev/packages/flutter_lucide)
-
-- **Website**: [https://lucide.dev](https://lucide.dev)
-- **Repository**: [https://github.com/lucide-icons/lucide](https://github.com/lucide-icons/lucide)
+- [flutter_lucide](https://pub.dev/packages/flutter_lucide) — Flutter package for Lucide icons.
+- [Lucide](https://lucide.dev) — open-source icon set.
 
 ## License
 
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.

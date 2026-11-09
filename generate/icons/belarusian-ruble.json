@@ -1,0 +1,15 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "byn",
+    "iso4217",
+    "fiat",
+    "localization",
+    "checkout",
+    "wallet",
+    "exchange-rate"
+  ],
+  "categories": [
+    "finance"
+  ]
+}

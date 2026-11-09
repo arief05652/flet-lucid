@@ -1,0 +1,25 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "modify",
+    "edit",
+    "sync",
+    "renew",
+    "revision",
+    "settings",
+    "adjust",
+    "upgrade",
+    "timeline",
+    "version",
+    "time machine",
+    "backup",
+    "synchronize",
+    "circular",
+    "cycle",
+    "update"
+  ],
+  "categories": [
+    "arrows",
+    "time"
+  ]
+}

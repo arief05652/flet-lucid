@@ -1,0 +1,12 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "report",
+    "abuse",
+    "offense",
+    "protected"
+  ],
+  "categories": [
+    "notifications"
+  ]
+}

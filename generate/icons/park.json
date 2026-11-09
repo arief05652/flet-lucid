@@ -1,0 +1,22 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "nature",
+    "green",
+    "trees",
+    "landscape",
+    "rest",
+    "walk",
+    "leisure",
+    "environment",
+    "tree",
+    "bench",
+    "outdoors",
+    "recreation"
+  ],
+  "categories": [
+    "nature",
+    "navigation",
+    "travel"
+  ]
+}

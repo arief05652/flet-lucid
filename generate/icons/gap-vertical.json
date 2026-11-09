@@ -1,0 +1,21 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "gap",
+    "spacing",
+    "space",
+    "between",
+    "padding",
+    "margin",
+    "vertical",
+    "auto layout",
+    "layout",
+    "distance",
+    "frame",
+    "distribute"
+  ],
+  "categories": [
+    "design",
+    "layout"
+  ]
+}

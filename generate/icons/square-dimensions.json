@@ -1,0 +1,21 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "ratio",
+    "size",
+    "width",
+    "height",
+    "resize",
+    "scale",
+    "frame",
+    "proportions",
+    "aspect",
+    "bounds",
+    "measurements",
+    "canvas"
+  ],
+  "categories": [
+    "design",
+    "layout"
+  ]
+}

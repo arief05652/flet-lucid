@@ -1,0 +1,14 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "uppercase",
+    "joule",
+    "energy",
+    "java",
+    "javascript",
+    "code"
+  ],
+  "categories": [
+    "letters-digits"
+  ]
+}

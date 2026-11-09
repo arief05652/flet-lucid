@@ -1,0 +1,17 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "cargo",
+    "container",
+    "freighter",
+    "freight",
+    "shipping",
+    "port",
+    "harbor",
+    "dock",
+    "logistics",
+    "import",
+    "export"
+  ],
+  "categories": []
+}

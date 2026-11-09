@@ -1,0 +1,28 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "broomstick",
+    "brush",
+    "sweep",
+    "sweeping",
+    "floor",
+    "cleaning",
+    "housekeeping",
+    "chores",
+    "tidy",
+    "spotless",
+    "dust",
+    "debris",
+    "bristles",
+    "handle",
+    "janitor",
+    "maintenance",
+    "witch",
+    "halloween"
+  ],
+  "categories": [
+    "tools",
+    "home",
+    "gaming"
+  ]
+}

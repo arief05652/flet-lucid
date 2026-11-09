@@ -1,6 +1,6 @@
 name: flet_lucid
 description: Flet FletLucid control
-version: 0.2.1
+version: 0.3.0
 publish_to: none
 
 environment:
@@ -8,10 +8,12 @@ environment:
   flutter: ">=1.17.0"
 
 dependencies:
-  flet: ^0.80.0
+  flet: ^1.1.2
   flutter:
     sdk: flutter
-  flutter_lucide: ^1.11.0
+  material_ui: ^1.6.0
+  # Pinned: lucid_data.dart aliases old names to this icon set.
+  flutter_lucide: 1.70.0
 
 dev_dependencies:
   flutter_test:

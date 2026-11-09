@@ -1,0 +1,27 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "optics",
+    "reflection",
+    "camera",
+    "photography",
+    "focus",
+    "effect",
+    "shader",
+    "post-process",
+    "visual",
+    "contact lens",
+    "glass",
+    "magnify",
+    "translucent",
+    "transparent",
+    "orb",
+    "bubble",
+    "zoom"
+  ],
+  "categories": [
+    "photography",
+    "science",
+    "tools"
+  ]
+}

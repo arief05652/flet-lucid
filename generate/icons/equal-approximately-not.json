@@ -1,0 +1,19 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "not",
+    "approximately",
+    "unequal",
+    "\u2247",
+    "tolerance",
+    "threshold",
+    "mismatch",
+    "comparison",
+    "assertion",
+    "variance"
+  ],
+  "categories": [
+    "development",
+    "science"
+  ]
+}

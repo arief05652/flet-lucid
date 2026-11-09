@@ -1,0 +1,15 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "audio",
+    "music",
+    "sound",
+    "note",
+    "crotchet",
+    "minim",
+    "quarter note"
+  ],
+  "categories": [
+    "multimedia"
+  ]
+}

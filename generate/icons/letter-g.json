@@ -1,0 +1,13 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "uppercase",
+    "gravity",
+    "g-force",
+    "gram",
+    "measurement"
+  ],
+  "categories": [
+    "letters-digits"
+  ]
+}

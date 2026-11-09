@@ -1,0 +1,23 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "disc",
+    "drive",
+    "dvd",
+    "blu-ray",
+    "cd",
+    "media",
+    "optical",
+    "optical drive",
+    "removable media",
+    "storage",
+    "tray",
+    "unmount",
+    "usb"
+  ],
+  "categories": [
+    "devices",
+    "files",
+    "multimedia"
+  ]
+}

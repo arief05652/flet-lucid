@@ -1,0 +1,21 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "deselect",
+    "unselect",
+    "select",
+    "border",
+    "width",
+    "layout",
+    "style",
+    "design",
+    "rectangle",
+    "aspect ratio",
+    "1:1"
+  ],
+  "categories": [
+    "design",
+    "development",
+    "layout"
+  ]
+}

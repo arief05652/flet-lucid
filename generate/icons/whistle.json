@@ -1,0 +1,27 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "alert",
+    "signal",
+    "sound",
+    "blow",
+    "noise",
+    "coach",
+    "trainer",
+    "referee",
+    "gym",
+    "game",
+    "training",
+    "sports",
+    "traffic cops",
+    "police",
+    "lifeguard",
+    "safety",
+    "rescue",
+    "emergency"
+  ],
+  "categories": [
+    "sports",
+    "notifications"
+  ]
+}

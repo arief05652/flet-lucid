@@ -1,0 +1,13 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "rugby",
+    "football",
+    "ball",
+    "goal",
+    "sport"
+  ],
+  "categories": [
+    "sports"
+  ]
+}

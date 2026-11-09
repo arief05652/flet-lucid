@@ -1,0 +1,21 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "load balancer",
+    "distribute",
+    "traffic",
+    "parallel",
+    "branch",
+    "hierarchy",
+    "routing",
+    "dispatcher",
+    "cluster",
+    "backend",
+    "fan-out",
+    "orchestration"
+  ],
+  "categories": [
+    "connectivity",
+    "development"
+  ]
+}

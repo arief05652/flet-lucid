@@ -1,0 +1,20 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "web",
+    "website",
+    "banned",
+    "geo blocking",
+    "offline",
+    "parental controls",
+    "content filter",
+    "region lock",
+    "public access",
+    "access control",
+    "domain blocking",
+    "region restriction"
+  ],
+  "categories": [
+    "security"
+  ]
+}

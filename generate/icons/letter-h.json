@@ -1,0 +1,21 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "html",
+    "markup",
+    "markdown",
+    "uppercase",
+    "heading",
+    "hospital",
+    "hydrogen",
+    "chemistry",
+    "hour",
+    "time",
+    "height",
+    "measurement"
+  ],
+  "categories": [
+    "letters-digits",
+    "text"
+  ]
+}

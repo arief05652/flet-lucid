@@ -1,0 +1,13 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "timeline",
+    "version",
+    "time machine",
+    "ccw"
+  ],
+  "categories": [
+    "arrows",
+    "time"
+  ]
+}

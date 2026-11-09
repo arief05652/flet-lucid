@@ -1,0 +1,14 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "emoji",
+    "bad",
+    "sadness",
+    "emotion",
+    "concern",
+    "disappointment"
+  ],
+  "categories": [
+    "emoji"
+  ]
+}

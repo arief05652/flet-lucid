@@ -1,0 +1,31 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "polo",
+    "watercraft",
+    "athlete",
+    "feature",
+    "sport",
+    "ball",
+    "aquatic",
+    "swimming",
+    "pool",
+    "team",
+    "game",
+    "competition",
+    "olympic",
+    "water",
+    "match",
+    "aquatic sports",
+    "water polo",
+    "aquatics",
+    "water sports",
+    "pool sport",
+    "team sport",
+    "tournament",
+    "league"
+  ],
+  "categories": [
+    "sports"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "debit",
+    "banking",
+    "finance",
+    "transaction",
+    "wallet",
+    "checkout",
+    "billing",
+    "account",
+    "cardholder",
+    "declined",
+    "rejected",
+    "failed",
+    "invalid",
+    "error"
+  ],
+  "categories": [
+    "shopping"
+  ]
+}

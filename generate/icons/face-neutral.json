@@ -1,0 +1,17 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "emoji",
+    "neutral",
+    "emotion",
+    "meh",
+    "blank stare",
+    "social masking",
+    "irritation",
+    "concern",
+    "deadpan"
+  ],
+  "categories": [
+    "emoji"
+  ]
+}

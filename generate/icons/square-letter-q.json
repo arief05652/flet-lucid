@@ -1,0 +1,16 @@
+{
+  "$schema": "../icon.schema.json",
+  "tags": [
+    "uppercase",
+    "question",
+    "help",
+    "queue",
+    "charge",
+    "electricity",
+    "quality",
+    "rating"
+  ],
+  "categories": [
+    "letters-digits"
+  ]
+}
